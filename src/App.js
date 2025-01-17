@@ -1,4 +1,5 @@
 import React from 'react';
+import 'animate.css';
 import ProductPicture from './components/ProductPicture';
 import ProductInfo from './components/ProductInfo';
 import ProductButton from './components/ProductButton';
@@ -8,7 +9,7 @@ import imageDesktop from './assets/image-product-desktop.jpg';
 function App() {
   return (
     <div
-      className="w-full p-4 2xs:h-dvh 2xs:py-0 2xs:flex 2xs:flex-col 2xs:justify-center xs:px-8 sm:px-4">
+      className="w-full p-4 2xs:h-dvh 2xs:py-0 2xs:flex 2xs:flex-col 2xs:justify-center xs:px-8 sm:px-4 animate__animated animate__fadeIn animate__slower">
       <main
         className='max-w-2xl mx-auto flex flex-col rounded-xl overflow-hidden bg-white-50 sm:flex-row '
       >
