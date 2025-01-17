@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Product preview card](https://carowd.github.io/fm_product_preview_card)
 
 ## My process
 
@@ -34,7 +34,7 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Tailwindcss](https://tailwindcss.com/) - CSS library
-- [Styled Components](https://styled-components.com/) - For styles
+- [Animate.css](https://animate.style/) - For animations
 
 ## Author
 
