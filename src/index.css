@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white-linen-100 font-sans text-sm text-shark-600;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply relative overflow-hidden py-3 px-6 flex items-center gap-3 rounded-lg font-semibold transition-colors duration-300 2xs:py-4 2xs:px-8;
+  }
+}
